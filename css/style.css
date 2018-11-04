@@ -1,0 +1,42 @@
+.navbar-inverse {
+  margin-bottom: 0;
+}
+.clear {
+  clear: both;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  height: 0;
+  line-height: 1px;
+  font-size: 1px;
+  overflow: hidden;
+}
+.div {
+  margin-top: .5em;
+  padding: .5em;
+  border: 1px solid #f0f0f0;
+}
+.div img {
+  width: 100%;
+}
+.autres_annonces {
+  margin: 1em;
+}
+.autres {
+  width: 25vw;
+  padding-bottom: .5em;
+}
+.table {
+  border-bottom:1px solid #ddd
+}
+iframe {
+  width: 100%;
+  border:0
+}
+.prefooter {
+padding: 1em;
+}
+footer {
+  padding: 1.5em 1em;
+  background:#f5f5f5;
+}
